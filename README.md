@@ -11,3 +11,5 @@ Then, the John Nash equilibrium algorithm which is implemented, finds the equili
 the power vs iterations (it' s the 'k' in the code) needed to achieve the quilibrium, the data Rates achieved as 
 well as the utilites of every user (starting from the macro to the femto users).
 See the zompolas_femtopowercontrol pdf for a full explanation of what i did in my thesis.
+
+The femtopowercontrol.m was tested in Matlab (version:R2011a). Run: >> femtopowercontrol 

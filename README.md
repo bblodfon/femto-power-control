@@ -12,4 +12,4 @@ the power vs iterations (it' s the 'k' in the code) needed to achieve the quilib
 well as the utilites of every user (starting from the macro to the femto users).
 See the zompolas_femtopowercontrol pdf for a full explanation of what i did in my thesis.
 
-The femtopowercontrol.m was tested in Matlab (version:R2011a). Run: >> femtopowercontrol 
+The femtopowercontrol.m was tested in Matlab (version:R2011a). Run: >> femtopower

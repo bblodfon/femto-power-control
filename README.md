@@ -9,7 +9,7 @@ Each FAP has one Real-Time user and one Non-Real-Time by default.
 
 Then, the John Nash equilibrium algorithm which is implemented, finds the equilibirum powers of all the users
 (voice/data - femto and macro-users) and creates the necessary graphs such as the topology of the mobile network, 
-the power vs iterations (it' s the 'k' in the code) needed to achieve the quilibrium, the data Rates achieved as 
+the mobile users' power vs iterations (it' s the 'k' in the code) needed to achieve the quilibrium, the data Rates achieved as 
 well as the utilites of every user (starting from the macro to the femto users).
 
 See the zompolas_femtopowercontrol pdf for a full explanation of what i did in my thesis.

@@ -1,5 +1,5 @@
 # femtoPowerControl
-My NTUA (National Technical Univercity of Athens) thesis code
+My NTUA (National Technical University of Athens) thesis code
 
 <b> Abstract </b>
 

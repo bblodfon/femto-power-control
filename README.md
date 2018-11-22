@@ -20,4 +20,4 @@ the mobile users' achieved power vs iterations of the algorithm (it is the 'k' v
 
 The `femtopowercontrol.m` was tested in Matlab (version: R2011a). Run: `>> femtopower`
 
-The thesis report is the pdf titled: "M.Eng Thesis - Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell Networks".
+You can find the thesis report [here](https://github.com/bblodfon/femto-power-control/blob/master/M.Eng%20Thesis%20-%20Optimal%20Power%20Allocation%20in%20the%20uplink%20of%20Two-Tier%20Wireless%20Femtocell%20Networks.pdf).

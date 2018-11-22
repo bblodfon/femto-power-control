@@ -18,6 +18,6 @@ Each FAP has one Real-Time user and one Non-Real-Time by default.
 (voice/data - femto and macro-users) and creates the desired graphs such as the topology of the mobile network, 
 the mobile users' achieved power vs iterations of the algorithm (it is the 'k' variable in the code) needed to achieve the equilibrium, the data Rates achieved as well as the utilites of every user (both macro and femto users).
 
-The femtopowercontrol.m was tested in Matlab (version: R2011a). Run: >> femtopower
+The `femtopowercontrol.m` was tested in Matlab (version: R2011a). Run: `>> femtopower`
 
 The thesis report is the pdf titled: "M.Eng Thesis - Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell Networks".

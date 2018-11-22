@@ -1,4 +1,5 @@
-# femtoPowerControl
+# femto-power-control
+
 My NTUA (National Technical University of Athens) thesis code
 
 ## Abstract
